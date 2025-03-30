@@ -4,3 +4,6 @@
 # Database and Tools
 ## Postgre SQL
 ## PgAdmin4
+# ERD daigram tha show relationship between tables
+
+![MusicDatabaseSchema](https://github.com/user-attachments/assets/12fb77bf-ae02-46e2-a1e6-46445d981dbf)
